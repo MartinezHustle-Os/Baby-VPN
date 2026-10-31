@@ -1,6 +1,6 @@
-anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-188.911-gt2-rs.com:35243/?sni=sync-v33.dirvt.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Baby%20VPN%2013
-anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-188.911-gt2-rs.com:35242/?sni=sync-v32.dirvt.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Baby%20VPN%2012
-anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-188.911-gt2-rs.com:35238/?sni=sync-v28.dirvt.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Baby%20VPN%2008
-anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-199.911-gt2-rs.com:35102/?sni=drive-cn2.dirvt.com&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20HK%2002
-anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-199.911-gt2-rs.com:35107/?sni=drive-cn8.dirvt.com&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20HK%2007
-anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-199.911-gt2-rs.com:35110/?sni=drive-cn11.dirvt.com&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20HK%2010
+anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-188.911-gt2-rs.com:35243/?sni=sync-v33.dirvt.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20US%2013
+anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-188.911-gt2-rs.com:35242/?sni=sync-v32.dirvt.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20US%2012
+anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-188.911-gt2-rs.com:35238/?sni=sync-v28.dirvt.com&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20US%2008
+anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-199.911-gt2-rs.com:35102/?sni=drive-cn2.dirvt.com&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20HK%2002
+anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-199.911-gt2-rs.com:35107/?sni=drive-cn8.dirvt.com&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20HK%2007
+anytls://0aac85fd-40eb-4fa1-971f-dc344a6f0fc5@cl-199.911-gt2-rs.com:35110/?sni=drive-cn11.dirvt.com&insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20HK%2010
