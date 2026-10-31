@@ -1,0 +1,31 @@
+proxies:
+  - name: "🇺🇸 Baby VPN 13"
+    type: anytls
+    server: "cl-188.911-gt2-rs.com"
+    port: 35243
+    password: "0aac85fd-40eb-4fa1-971f-dc344a6f0fc5"
+    sni: "sync-v33.dirvt.com"
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    udp: true
+    alpn: [h2, "http/1.1"]
+  - name: "🇺🇸 Baby VPN 12"
+    type: anytls
+    server: "cl-188.911-gt2-rs.com"
+    port: 35242
+    password: "0aac85fd-40eb-4fa1-971f-dc344a6f0fc5"
+    sni: "sync-v32.dirvt.com"
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    udp: true
+    alpn: [h2, "http/1.1"]
+  - name: "🇺🇸 Baby VPN 08"
+    type: anytls
+    server: "cl-188.911-gt2-rs.com"
+    port: 35238
+    password: "0aac85fd-40eb-4fa1-971f-dc344a6f0fc5"
+    sni: "sync-v28.dirvt.com"
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    udp: true
+    alpn: [h2, "http/1.1"]
